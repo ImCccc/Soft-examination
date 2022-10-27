@@ -19,10 +19,8 @@ const sidebar = {
     "/Chapter/17.md",
     "/Chapter/18.md",
     "/Chapter/19.md",
-    "/Chapter/20.md",
-    "/Chapter/21.md",
   ],
-  "/Summary/": ["/Summary/", "/Summary/InputOutputTools.md"],
+  "/Summary/": ["/Summary/InputOutputTools.md"],
   "/Examination/": ["/Examination/"],
 };
 
@@ -39,7 +37,7 @@ module.exports = {
     sidebarDepth: 2,
     nav: [
       { text: "书本章节", link: "/Chapter/1.md" },
-      { text: "一些归纳", link: "/Summary/" },
+      { text: "一些归纳", link: "/Summary/InputOutputTools.md" },
       { text: "一些试题", link: "/Examination/" },
     ],
   },
