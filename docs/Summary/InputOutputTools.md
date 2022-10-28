@@ -82,6 +82,10 @@
 
 <img height="120px" src="./imgs/18.jpg" /><br/><br/>
 
+## 成本管理计划
+
+<img height="120px" src="./imgs/19.jpg" /><br/><br/>
+
 ## 工具
 
 ### 专家判断
@@ -142,3 +146,23 @@
 ### 群体决策技术
 
 <img height="220px" src="./imgs/17.jpg" /><br/><br/>
+
+### 类比估算
+
+<img height="130px" src="./imgs/20.jpg" /><br/><br/>
+
+### 参数估算
+
+<img height="130px" src="./imgs/21.jpg" /><br/><br/>
+
+### 自上而下估算
+
+<img height="120px" src="./imgs/22.jpg" /><br/><br/>
+
+### 三点估算
+
+<img height="50px" src="./imgs/23.jpg" /><br/><br/>
+
+### 储备分析
+
+<img height="70px" src="./imgs/24.jpg" /><br/><br/>
